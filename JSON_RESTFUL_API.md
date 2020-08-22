@@ -4,7 +4,7 @@
 - use Resource Class (introduced in Laravel 5.5)
 - `withoutWap()` to un-warp with `data` key
 - `$collection->flapMap($callback($value))` to map collection relationship.
-- `$collection->map($callback($value))` to map item relation ship.
+- `$collection->map($callback($value))` to map item relationship.
 
 References:
 
