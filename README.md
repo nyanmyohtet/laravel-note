@@ -38,6 +38,10 @@
 
 GitHub Repo: https://github.com/jpfuentes2/php-activerecord
 
+## Coding Standard Guide
+
+https://www.laravelbestpractices.com
+
 ## Clear Cache
 
 `php artisan route:clear`
