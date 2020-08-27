@@ -7,6 +7,8 @@
 ## Eloquent Model Convention
 
 ```php
+// Flight.php
+
 <?php
 
 namespace App;
