@@ -87,6 +87,15 @@ class Flight extends Model
     protected $attributes = [
         'delayed' => false,
     ];
+
+    /**
+     * The attributes that should be cast to native types.
+     *
+     * @var array
+     */
+    protected $casts = [
+        'options' => 'array',
+    ];
 }
 ```
 
